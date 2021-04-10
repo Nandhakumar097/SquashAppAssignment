@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SquashAppsAssignment</string>
+
+    <string name="videos">125 Videos</string>
+    <string name="likes">Liked</string>
+    <string name="mail">"@eleanorpena333</string>
+    <string name="biodata">Persons Bio data \n Lorem ipsum dolor sit amet, cons</string>
+
+
+</resources>
